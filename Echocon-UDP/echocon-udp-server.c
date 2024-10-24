@@ -1,5 +1,3 @@
-// Practica Tema 5: Vara Lamua, Adrian
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
